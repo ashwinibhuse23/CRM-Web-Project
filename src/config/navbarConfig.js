@@ -26,6 +26,6 @@ export const navbarMenus = [
     ],
   },
   { label: "Tasks", icon: FiCheckSquare, path: "/tasks" },
-  { label: "Inventory", icon: FiPackage, path: "/inventory" },
+  
   { label: "Payments", icon: FiDollarSign, path: "/payments" },
 ];

@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> bf32d59 (made pages)
 import React from 'react';
 import { Plus } from 'lucide-react';
 

@@ -30,11 +30,7 @@ export default function TopNavbar() {
       </div>
 
       {/* ================= MAIN NAVBAR ================= */}
-<<<<<<< HEAD
       <div className="bg-gradient-to-r from-teal-800 to-teal-600 text-white px-6 py-3 flex items-center gap-6 shadow-lg">
-=======
-      <div className="bg-[#27314B] text-white px-6 py-3 flex items-center gap-6">
->>>>>>> bf32d59 (made pages)
         {navbarMenus.map((menu, index) => {
           const Icon = menu.icon;
           const isActive = location.pathname.startsWith(menu.path);
